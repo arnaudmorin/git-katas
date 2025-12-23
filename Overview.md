@@ -30,14 +30,14 @@
 
 1. [commit-on-wrong-branch](commit-on-wrong-branch/README.md) - If we accidentally put unpushed commits on the wrong branch, how do we effectively _move_ them to another branch before our work on that branch.
 1. [commit-on-wrong-branch-2](commit-on-wrong-branch-2/README.md) - Another exercise on what to do if you have accidentally committed on the wrong branch.
-1. [reverted-merge](reverted-merge/README.md) - We revert a merge, but, after fixes are added to the merged branch, we want the changes from merge and the new fixes.
 1. [save-my-commit](save-my-commit/README.md) - Should you accidentally or on purpose delete a commit, go here to try and save it. You will use the reflog.
 1. [detached-head](detached-head/README.md) - git complains that you are in a "You are in 'detached HEAD' state". What do you do?
 1. [change-author](change-author//README.md) - Change the author of commits
 
 ## Katas On Advanced features
 
-1. [Bad-commit](bad-commit/README.md) - Using `git bisect` to find a bad commit.
+1. [reverted-merge](reverted-merge/README.md) - We revert a merge, but, after fixes are added to the merged branch, we want the changes from merge and the new fixes.
+1. [bad-commit](bad-commit/README.md) - Using `git bisect` to find a bad commit.
 1. [bisect](bisect/README.md) - Another kata using `git bisect`.
 1. [pre-push](pre-push/README.md) - A quick exercise in using Git hooks.
 1. [Investigation](investigation/README.md) - Discover what is going on in a Git repo, figure out what it looks like under the hood.

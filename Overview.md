@@ -36,7 +36,6 @@
 
 ## Katas On Advanced features
 
-1. [git-attributes](git-attributes/README.md) - .gitattributes file allows you to specify how git handles files, such as line endings in text files or how to diff a binary file.
 2. [Bad-commit](bad-commit/README.md) - Using `git bisect` to find a bad commit.
 3. [bisect](bisect/README.md) - Another kata using `git bisect`.
 4. [pre-push](pre-push/README.md) - A quick exercise in using Git hooks.
